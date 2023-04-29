@@ -1,0 +1,19 @@
+.PokeCollection{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: stretch;
+    align-items: center;
+    flex-wrap: wrap ;
+    padding: 6px;
+    margin:0 16px
+}
+.Poke-Lose{
+    color: red;
+
+}
+
+.Poke-Winner {
+    color : green;
+
+}
